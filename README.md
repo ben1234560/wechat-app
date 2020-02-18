@@ -8,7 +8,7 @@ CRM系统and我的商城，里面大部分代码功能都有注释（小白级�
 
 
 
-<img src="assets/展示.png" alt="展示" title="展示" width="800"  height = "500" />
+<img src="assets/展示.png" alt="展示" title="展示" width="800"  height = "600" />
 
 
 
