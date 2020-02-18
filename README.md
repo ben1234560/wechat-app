@@ -8,13 +8,13 @@ CRM系统and我的商城，里面大部分代码功能都有注释（小白级�
 
 
 
-<img src="assets/展示.png" alt="展示" title="展示" width="800"  height = "600" />
+<img src="assets/展示.png" alt="展示" title="展示" width="900"  height = "500" />
 
 
 
 <img src="assets/后台.png" alt="后台" title="后台" width="1000"  height = "250" />
 
-<img src="assets/代码.png" alt="代码" title="代码" width="1000"  height = "600" />
+<img src="assets/代码.png" alt="代码" title="代码" width="1000"  height = "700" />
 
 ### 关于代码：
 
