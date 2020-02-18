@@ -1,0 +1,15 @@
+/**backtime.wxss**/
+.aboutus {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.register_up{
+  align-items: center;
+  display: flex;
+  margin-top: 50px;
+}
+.choice{
+  width:750px
+}

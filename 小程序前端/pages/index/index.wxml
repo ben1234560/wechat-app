@@ -1,0 +1,19 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 登录 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  <view>
+    <input bindinput="bindKeyInput" placeholder="请输入公司用户名" class='username' value='{{username}}'></input>
+  </view>
+  <view class='checkinfo navigator'>
+    <van-button type="primary" bindtap="checkinfo" >登录/注册</van-button>
+  </view>
+    <van-toast id="van-toast" />
+    <view class='ps_info'>目前仅开放查看个人信息/注册、编辑、公司、搜索查询、商城首页</view>
+</view>
+

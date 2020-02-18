@@ -1,0 +1,17 @@
+<!--checkinfo.wxml-->
+<view class="container1">
+<!-- <view>the new page</view> -->
+  <view wx:for="{{textdata}}">
+    <view class='show_simple_info'>
+    <van-cell class="test1" title="" icon="user-o" value="{{item.username}}"/>
+    <van-cell title="所属部门" icon="friends" value="{{item.department_name}}"/>
+    <van-cell title="电话" icon="phone" value="{{item.mobile}}"/>
+    </view>
+    <view class='check_all_info'>
+    <van-cell title="编辑个人信息" icon="setting" is-link url="/pages/edit/edit"     link-type="navigateTo" />
+    </view>
+    <view class='navigator'>
+    <navigator url="/pages/userdetail/userdetail?title=userdetail" hover-class="navigator-hover">查看更多信息</navigator>
+    </view>
+  </view>
+</view>

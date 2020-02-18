@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "van-cell": "/vant-weapp/cell",
+    "van-cell-group": "/vant-weapp/cell-group",
+    "van-icon": "/vant-weapp/icon",
+    "van-search": "/vant-weapp/search",
+    "van-popup": "/vant-weapp/popup",
+    "van-toast": "/vant-weapp/toast"
+  }
+}

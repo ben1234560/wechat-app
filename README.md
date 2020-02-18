@@ -16,7 +16,13 @@ CRM系统and我的商城，里面大部分代码功能都有注释（小白级�
 
 <img src="assets/代码.png" alt="代码" title="代码" width="1000"  height = "600" />
 
+### 关于代码：
 
+- 小程序前端：对应着前端页面，小程序只有window（mac）版的
+- flask_window10：开发时，是在window端开发的，因为小程序也是win端，所以这样开发速度较快
+
+- flask_ubuntu：过度版，从win过度到centos，因为win和centos的环境相差太远，而centos不好调试
+- flask_centos7：对应服务器部署上线的后端
 
 #### 部署环境要求
 
