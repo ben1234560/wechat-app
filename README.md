@@ -6,15 +6,15 @@ CRM系统and我的商城，里面大部分代码功能都有注释（小白级�
 
 ## 项目截图：
 
-<img src="assets/首页图.png" alt="首页" title="首页" width="330"  height = "300" />
+<img src="assets/首页图.png" alt="首页" title="首页" width="300"  height = "500" />
 
-<img src="assets/商城.png" alt="商城" title="商城" width="330"  height = "300" />
+<img src="assets/商城.png" alt="商城" title="商城" width="300"  height = "500" />
 
-<img src="assets/用户.png" alt="用户" title="用户" width="330"  height = "300" />
+<img src="assets/用户.png" alt="用户" title="用户" width="300"  height = "500" />
 
-<img src="assets/后台.png" alt="后台" title="后台" width="1000"  height = "300" />
+<img src="assets/后台.png" alt="后台" title="后台" width="1000"  height = "250" />
 
-<img src="assets/代码.png" alt="代码" title="代码" width="1000"  height = "300" />
+<img src="assets/代码.png" alt="代码" title="代码" width="1000"  height = "600" />
 
 
 
