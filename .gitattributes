@@ -1,1 +1,4 @@
-*.ipynb linguist-language=python
+*.js linguist-language=python
+*.json linguist-language=python
+*.wxss linguist-language=python
+*.wxml linguist-language=python
