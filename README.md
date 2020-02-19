@@ -1,5 +1,9 @@
 # wechat-app
 
+[![image](https://img.shields.io/badge/Wechat-MiniProgram-deepgreen.svg)](https://mp.weixin.qq.com/cgi-bin/wx?token=&lang=zh_CN)
+
+[![image](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/)
+
 CRM系统and我的商城，里面大部分代码功能都有注释（小白级），旨在帮助更多人更快的开发flask+微信小程序。员工管理系统及我的个性化商城，超轻量级入门flaks和微信小程序。
 
 
